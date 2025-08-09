@@ -1,4 +1,4 @@
 # About Me
 
-- 🌱 I’m currently learning Javascript, pawn
+- 🌱 I’m currently learning Javascript, python
 
