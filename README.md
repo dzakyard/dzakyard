@@ -1,4 +1,4 @@
 # About Me
 
-- 🌱 I’m currently learning Javascript, python
+- 🌱 I’m currently learning HTML & CSS
 
